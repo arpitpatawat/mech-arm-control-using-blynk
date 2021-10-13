@@ -7,4 +7,4 @@ also check this video for working - https://drive.google.com/file/d/15qbzpi1-ea9
 <br /> 2.Reverse / forward - 90 to 170
 <br /> 3.down / up - 90 to 180
 <br /> 4.right/left - 0 to 180
-<br /> all these pins are 'Digital Pins' in the old blynk app.
+<br /> all these pins are 'Virtual pins' in the old blynk app.(V0, V1, V2, V3).
